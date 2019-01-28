@@ -1,0 +1,2 @@
+# Online-Tour-and-Travel-Website
+This is a project based on PHP with MySQL database. This is a online tour and travel website which provide details about tourism packages as well as about the places. There is a register login system for users who want to book any tour package. Online Payment facility is not yet implemented in this project. Users can contact us through mail and over phone also. This website is very much attractive to the users and very easy to go through the website for any ongoing tour package details
